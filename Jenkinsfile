@@ -1,7 +1,7 @@
 node('maven-label'){
 
 
-stage('1'){
+stage('prepare'){
 echo "hello world"
 }
 
